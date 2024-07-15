@@ -86,19 +86,19 @@ const weatherApi = {
   
     
   
-    let day1 = document.getElementById("day1");
+    let day1 = document.getElementById("des1");
     day1.innerHTML = day[d++];
   
-    let day2 = document.getElementById("day2");
+    let day2 = document.getElementById("des2");
     day2.innerHTML = day[d++];
   
-    let day3 = document.getElementById("day3");
+    let day3 = document.getElementById("des3");
     day3.innerHTML = day[d++];
   
-    let day4 = document.getElementById("day4");
+    let day4 = document.getElementById("des4");
     day4.innerHTML = day[d++];
   
-    let day5 = document.getElementById("day5");
+    let day5 = document.getElementById("des5");
     day5.innerHTML = day[d++];
   
     
